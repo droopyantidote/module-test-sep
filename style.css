@@ -195,10 +195,10 @@ span {
 }
 .alumni {
   background-color: #fdfeff;
-  border: 1px solid #ccc; /* Add a light gray border */
-  padding: 15px; /* Add some padding for spacing */
-  margin-bottom: 20px; /* Add margin to separate alumni cards */
-  min-height: 300px; /* Set a minimum height for the alumni card */
+  border: 1px solid #ccc; 
+  padding: 15px; 
+  margin-bottom: 20px; 
+  min-height: 300px; 
 }
 .photos {
   display: flex;
